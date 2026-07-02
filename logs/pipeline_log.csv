@@ -1,0 +1,2 @@
+fecha_ejecucion,archivo_origen,filas_originales,columnas_originales,nulos_eliminados,duplicados_eliminados,filas_finales,columnas_finales,estado
+2026-07-02 11:57:20,reporte_clinica (3).csv,1363,8,152,0,1212,8,COMPLETADO_EXITOSO
